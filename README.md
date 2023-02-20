@@ -9,7 +9,7 @@ Columns:
 3) Original Tweet
 4) Label
 
-I have used bi-lstm for this project
+I have used bi-directional lstm for this project
 
 in this the data lemmatized , embedded and paded sequences
 I have used bi-directional rnn
