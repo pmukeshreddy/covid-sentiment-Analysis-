@@ -1,5 +1,7 @@
 # covid-sentiment-Analysis-NLP 
 
+The method of analyzing public sentiment toward COVID-19 using natural language processing (NLP) and machine learning techniques is known as COVID sentiment analysis. For public health authorities, policymakers, and researchers, this approach can be helpful in understanding the feelings and attitudes of people concerning the pandemic.
+
 The main goal is to Perform Text Classification on the data. The tweets have been pulled from Twitter and manual tagging has been done then.
 The names and usernames have been given codes to avoid any privacy concerns.
 
